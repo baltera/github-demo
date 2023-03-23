@@ -1,10 +1,12 @@
 # github-demo
 A simple repo to demo git workflow
 
-##Intro
+## Intro
+This is the introduction.
 
-##Purpose
+## Purpose
+This is the purpose of this repository.
 
-##Deployment
+## Deployment
 
-##How to contribute
+## How to contribute
