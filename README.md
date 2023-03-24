@@ -8,5 +8,7 @@ This is the introduction.
 This is the purpose of this repository.
 
 ## Deployment
+Then again, this is the purpose of the Deployment section. So another piece of unrelated text is inserted here for learning purposes.
 
 ## How to contribute
+Basically contribute in a voluntary manner please.
