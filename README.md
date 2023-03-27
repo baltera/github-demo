@@ -12,3 +12,6 @@ Then again, this is the purpose of the Deployment section. So another piece of u
 
 ## How to contribute
 Basically contribute in a voluntary manner please.
+
+### Copyright
+Copyright notice 2023
