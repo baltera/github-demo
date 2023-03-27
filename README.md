@@ -1,5 +1,6 @@
 # github-demo
 A simple repo to demo git workflow
+Adding a line for rebasing example.
 
 ## Intro
 This is the introduction.
