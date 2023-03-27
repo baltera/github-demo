@@ -15,4 +15,4 @@ Then again, this is the purpose of the Deployment section. So another piece of u
 Please fork this repository to contribute.
 
 ### Copyright
-Copyright notice 2023
+Copyright notice 2023. "All rights reserverd"
