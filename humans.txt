@@ -7,3 +7,6 @@ Thanks to all my students
 
 # COMMENTS
 Another line of files.
+
+# TECH
+git & github
