@@ -1,6 +1,6 @@
 # github-demo
 A simple repo to demo git workflow
-Adding a line for rebasing example.
+Adding a line for rebasing example, then MORE CHANGES from myfeature branch.
 
 ## Intro
 This is the introduction.
